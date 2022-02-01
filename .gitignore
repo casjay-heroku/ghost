@@ -11,3 +11,5 @@ content/data/ghost-local.db
 
 content/themes/*
 !content/themes/.gitkeep
+# ignore commit message
+.gitcommit
